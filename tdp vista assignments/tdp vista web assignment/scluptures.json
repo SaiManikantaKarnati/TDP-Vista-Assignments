@@ -1,0 +1,56 @@
+[
+    {
+        "sclupture": "Bust of Nefertiti",
+        "date": "1345 BC",
+        "image": "/images/nefertiti.png",
+        "description": "This portrait has been a symbol of feminine beauty since it was first unearthed in 1912 within the ruins of Amarna, the capital city built by the most controversial Pharaoh of Ancient Egyptian history: Akhenaten."
+    },
+    {
+        "sclupture": "The Terracotta Army",
+        "date": "210–209 BC",
+        "image": "/images/terracotta.png",
+        "description": "Terracotta Army is an enormous cache of clay statues buried in three massive pits near the tomb of Shi Huang, the first Emperor of China, who died in 210 BC. Meant to protect him in the afterlife."
+    },
+    {
+        "sclupture": "Ecstasy of Saint Teresa",
+        "date": "1647–52",
+        "image": "/images/teresa.jpg",
+        "description": "Gian Lorenzo Bernini created this masterpiece for a chapel in the Church of Santa Maria della Vittoria. The Baroque was inextricably linked to the Counter-Reformation through which the Catholic Church tried to stem the tide of Protestantism surging across 17th-century Europe."
+    },
+    {
+        "sclupture": "The Little Fourteen-Year-Old Dancer",
+        "date": "1881/1922",
+        "image": "/images/dancer.jpg",
+        "description": "The Little Dancer Aged Fourteen, the title given by the artist, has become one of the most beloved works of art, well known through the many bronze casts produced from this unique original statuette, following the artist's death."
+    },
+    {
+        "sclupture": "David",
+        "date": "1504",
+        "image": "/images/david.png",
+        "description": "Carved from a single block of marble, David is a masterpiece of Renaissance sculpture, showcasing the artist's exceptional skill in capturing human anatomy and conveying a sense of strength and beauty."
+    },
+    {
+        "sclupture": "The Burghers of Calais",
+        "date": "1894–85",
+        "image": "/images/calais.jpg",
+        "description": "The Burghers eschewed the format typical of monuments at the time: Instead of figures isolated or piled into a pyramid atop a tall pedestal, Rodin assembled his life-size subjects directly on the ground, level with the viewer."
+    },
+    {
+        "sclupture": "Guitar",
+        "date": "1912",
+        "image":"/images/guitar.jpg",
+        "description": "In 1912, Picasso created a cardboard maquette of a piece that would have an outsized impact on 20th-century art. Also in MoMA’s collection, it depicted a guitar, a subject Picasso often explored in painting and collage, and in many respects, Guitar transferred collage’s cut and paste techniques from two dimensions to three."
+    },
+    {
+        "sclupture": "Unique Forms of Continuity in Space",
+        "date": "1913",
+        "image": "/images/continuity.jpg",
+        "description": "From its radical beginnings to its final fascist incarnation, Italian Futurism shocked the world, but no single work exemplified the sheer delirium of the movement than this sculpture by one of its leading lights: Umberto Boccioni."
+    },
+    {
+        "sclupture": "Spider",
+        "date": "1996",
+        "image": "/images/spider.jpg",
+        "description": "The French-born artist’s signature work, Spider was created in the mid-1990s when Bourgeois (1911-2010) was already in her eighties. It exists in numerous versions of varying scale, including some that are monumental. Spider is meant as a tribute to the artist’s mother, a tapestry restorer."
+    }
+]

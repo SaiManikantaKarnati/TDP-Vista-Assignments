@@ -1,0 +1,64 @@
+[
+    {
+        "painting": "Mona Lisa",
+        "artist": "Leonardo da Vinci",
+        "date": "1503 - 1506",
+        "image": "/images/monalisa.jpg",
+        "description": "One of the most iconic paintings in history, the Mona Lisa captures the enigmatic smile of a woman, showcasing da Vinci\"s mastery of technique and his ability to convey depth and emotion."
+    },
+    {
+        "painting": "The Starry Night",
+        "artist": "Vincent van Gogh",
+        "date": "1889",
+        "image": "/images/starry_night.jpeg",
+        "description": "With its swirling, expressive brushstrokes and vibrant colors, The Starry Night is a breathtaking depiction of the night sky, showcasing van Goghs unique artistic vision and emotional intensity."
+    },
+    {
+        "painting": "Guernica",
+        "artist": "Pablo Picasso",
+        "date": "1937",
+        "image": "/images/guernica.jpg",
+        "description": "A powerful anti-war statement, Guernica is a large-scale mural depicting the horrors of the Spanish Civil War, showcasing Picasso Cubist style and his ability to convey intense emotion through fragmented forms."
+    },
+    {
+        "painting": "The Night Watch",
+        "artist": "Rembrandt Van Rijn",
+        "date" : "1642",
+        "image": "/images/watch.jpg",
+        "description": "The true name of this painting by Rembrandt is The Shooting Company of Frans Banning Cocq and Willem van Ruytenburch. In the 19th century, art critics who discovered the painting thought that human figures were standing against a dark background, and it was called The Night Watch."
+    },
+    {
+        "painting": "The Scream",
+        "artist": "Edvard Munch",
+        "date": "1893",
+        "image": "/images/scream.jpg",
+        "description": "An iconic representation of existential angst, The Scream features a figure in distress against a backdrop of swirling colors, exemplifying Munch exploration of human emotion and psychological turmoil."
+    },
+    {
+        "painting": "Water Lilies",
+        "artist": "Claude Monet",
+        "date": "1914-1926",
+        "image": "/images/lilies.jpg",
+        "description": "A series of paintings capturing the serene beauty of water lilies in Monets garden, these works exemplify his mastery of impressionism and his ability to convey the play of light and color."
+    },
+    {
+        "painting": "The Two Fridas",
+        "artist": "Frida Kahlo",
+        "date": "1939",
+        "image": "/images/fridas.jpg",
+        "description": "A poignant self-portrait, The Two Fridas depicts Kahlos dual identity and her emotions surrounding her marriage and divorce, showcasing her unique blend of surrealism and personal symbolism."
+    },
+    {
+        "painting": "Girl with a Pearl Earring",
+        "artist": "Johannes Vermeer",
+        "image": "/images/pearl_earring.jpg",
+        "description": "This painting portrays a young woman wearing an exotic dress and a pearl earring."
+    },
+    {
+        "painting": "The Persistence of Memory",
+        "artist": "Salvador Dalí",
+        "date": "1931",
+        "image": "/images/persistance_of_memory.jpeg",
+        "description": "With its melting clocks and dreamlike imagery, The Persistence of Memory explores the concept of time and the subconscious mind, showcasing Dalís surrealistic style and his fascination with the irrational."
+    }
+]
